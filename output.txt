@@ -1,5 +1,5 @@
 =====================================
-Image: /Users/vipulmalhotra/Documents/source/repo/azure-vision-object-detection/images/2ppl2.jpeg
+Image: images/2ppl2.jpeg
 ImageData: {
     "color": {
         "dominant_color_foreground": "White",
@@ -22,7 +22,7 @@ ImageData: {
             "confidence": 0.679
         }
     ],
-    "request_id": "10c2545f-40b1-48d9-b531-837fc6fe6141",
+    "request_id": "68007b6d-709b-4291-997f-0dc138985c18",
     "metadata": {
         "width": 280,
         "height": 453,
@@ -31,7 +31,7 @@ ImageData: {
     "model_version": "2021-05-01"
 }
 =====================================
-Image: /Users/vipulmalhotra/Documents/source/repo/azure-vision-object-detection/images/6ppl.jpeg
+Image: images/6ppl.jpeg
 ImageData: {
     "color": {
         "dominant_color_foreground": "White",
@@ -178,7 +178,7 @@ ImageData: {
             }
         }
     ],
-    "request_id": "80493073-5aa1-4eb0-bc28-52c239e21cb7",
+    "request_id": "3de58328-df9e-4a21-9272-02fcdbfb83d6",
     "metadata": {
         "width": 600,
         "height": 400,
@@ -187,7 +187,7 @@ ImageData: {
     "model_version": "2021-05-01"
 }
 =====================================
-Image: /Users/vipulmalhotra/Documents/source/repo/azure-vision-object-detection/images/bw.jpeg
+Image: images/bw.jpeg
 ImageData: {
     "color": {
         "dominant_color_foreground": "Grey",
@@ -222,7 +222,7 @@ ImageData: {
             "confidence": 0.541
         }
     ],
-    "request_id": "3b718507-51b8-48ee-96a0-30df1370e700",
+    "request_id": "0ff3ccef-72e1-4517-82eb-5d85abfa6664",
     "metadata": {
         "width": 600,
         "height": 800,
@@ -231,7 +231,7 @@ ImageData: {
     "model_version": "2021-05-01"
 }
 =====================================
-Image: /Users/vipulmalhotra/Documents/source/repo/azure-vision-object-detection/images/manyppl.jpeg
+Image: images/manyppl.jpeg
 ImageData: {
     "color": {
         "dominant_color_foreground": "Black",
@@ -335,7 +335,7 @@ ImageData: {
             "confidence": 0.826
         }
     ],
-    "request_id": "86651779-6f86-4c57-b4e1-d718544c5ee7",
+    "request_id": "918b1ee2-b5b7-43de-8a3d-ab273b1f44fc",
     "metadata": {
         "width": 600,
         "height": 338,
@@ -344,7 +344,7 @@ ImageData: {
     "model_version": "2021-05-01"
 }
 =====================================
-Image: /Users/vipulmalhotra/Documents/source/repo/azure-vision-object-detection/images/3ppl.jpeg
+Image: images/3ppl.jpeg
 ImageData: {
     "color": {
         "dominant_color_foreground": "Green",
@@ -387,7 +387,7 @@ ImageData: {
             "confidence": 0.799
         }
     ],
-    "request_id": "b93f9177-8d43-4bce-aa8d-be71c3c7db4b",
+    "request_id": "b3766a91-60b5-426b-9356-e859bf59e053",
     "metadata": {
         "width": 600,
         "height": 900,
@@ -396,7 +396,7 @@ ImageData: {
     "model_version": "2021-05-01"
 }
 =====================================
-Image: /Users/vipulmalhotra/Documents/source/repo/azure-vision-object-detection/images/1ppl.jpeg
+Image: images/1ppl.jpeg
 ImageData: {
     "color": {
         "dominant_color_foreground": "Black",
@@ -419,7 +419,7 @@ ImageData: {
             "confidence": 0.901
         }
     ],
-    "request_id": "d867da13-8c30-4fb7-8224-a51a4611fcf7",
+    "request_id": "79833d20-c39e-4fcd-b70f-7bc89bade3be",
     "metadata": {
         "width": 600,
         "height": 400,
@@ -428,7 +428,7 @@ ImageData: {
     "model_version": "2021-05-01"
 }
 =====================================
-Image: /Users/vipulmalhotra/Documents/source/repo/azure-vision-object-detection/images/2ppl1.jpeg
+Image: images/2ppl1.jpeg
 ImageData: {
     "color": {
         "dominant_color_foreground": "White",
@@ -480,7 +480,7 @@ ImageData: {
             }
         }
     ],
-    "request_id": "e334925a-b259-4714-aafa-6ac5d0f40788",
+    "request_id": "26d9b732-ffdf-47c3-9a62-7ed327140dc6",
     "metadata": {
         "width": 600,
         "height": 450,
