@@ -42,7 +42,7 @@ To get started with this project, follow these steps:
     ```
 2. Run the object detection script:
     ```sh
-    python detect_objects.py --image path_to_your_image.jpg
+    python3 app.py
     ```
 
 ## Contributing
