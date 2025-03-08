@@ -1,0 +1,490 @@
+=====================================
+Image: /Users/vipulmalhotra/Documents/source/repo/azure-vision-object-detection/images/2ppl2.jpeg
+ImageData: {
+    "color": {
+        "dominant_color_foreground": "White",
+        "dominant_color_background": "White",
+        "dominant_colors": [
+            "White"
+        ],
+        "accent_color": "B66315",
+        "is_bw_img": false
+    },
+    "objects": [
+        {
+            "rectangle": {
+                "x": 66,
+                "y": 123,
+                "w": 192,
+                "h": 321
+            },
+            "object_property": "person",
+            "confidence": 0.679
+        }
+    ],
+    "request_id": "10c2545f-40b1-48d9-b531-837fc6fe6141",
+    "metadata": {
+        "width": 280,
+        "height": 453,
+        "format": "Jpeg"
+    },
+    "model_version": "2021-05-01"
+}
+=====================================
+Image: /Users/vipulmalhotra/Documents/source/repo/azure-vision-object-detection/images/6ppl.jpeg
+ImageData: {
+    "color": {
+        "dominant_color_foreground": "White",
+        "dominant_color_background": "White",
+        "dominant_colors": [
+            "White",
+            "Grey",
+            "Black"
+        ],
+        "accent_color": "8A4E41",
+        "is_bw_img": false
+    },
+    "objects": [
+        {
+            "rectangle": {
+                "x": 47,
+                "y": 162,
+                "w": 79,
+                "h": 101
+            },
+            "object_property": "car",
+            "confidence": 0.541,
+            "parent": {
+                "object_property": "Land vehicle",
+                "confidence": 0.55,
+                "parent": {
+                    "object_property": "Vehicle",
+                    "confidence": 0.551
+                }
+            }
+        },
+        {
+            "rectangle": {
+                "x": 473,
+                "y": 139,
+                "w": 117,
+                "h": 138
+            },
+            "object_property": "car",
+            "confidence": 0.777,
+            "parent": {
+                "object_property": "Land vehicle",
+                "confidence": 0.782,
+                "parent": {
+                    "object_property": "Vehicle",
+                    "confidence": 0.782
+                }
+            }
+        },
+        {
+            "rectangle": {
+                "x": 1,
+                "y": 168,
+                "w": 99,
+                "h": 138
+            },
+            "object_property": "car",
+            "confidence": 0.693,
+            "parent": {
+                "object_property": "Land vehicle",
+                "confidence": 0.703,
+                "parent": {
+                    "object_property": "Vehicle",
+                    "confidence": 0.703
+                }
+            }
+        },
+        {
+            "rectangle": {
+                "x": 129,
+                "y": 123,
+                "w": 60,
+                "h": 204
+            },
+            "object_property": "person",
+            "confidence": 0.759
+        },
+        {
+            "rectangle": {
+                "x": 189,
+                "y": 133,
+                "w": 54,
+                "h": 189
+            },
+            "object_property": "person",
+            "confidence": 0.669
+        },
+        {
+            "rectangle": {
+                "x": 229,
+                "y": 136,
+                "w": 61,
+                "h": 191
+            },
+            "object_property": "person",
+            "confidence": 0.829
+        },
+        {
+            "rectangle": {
+                "x": 280,
+                "y": 119,
+                "w": 70,
+                "h": 212
+            },
+            "object_property": "person",
+            "confidence": 0.889
+        },
+        {
+            "rectangle": {
+                "x": 351,
+                "y": 117,
+                "w": 69,
+                "h": 224
+            },
+            "object_property": "person",
+            "confidence": 0.88
+        },
+        {
+            "rectangle": {
+                "x": 407,
+                "y": 116,
+                "w": 68,
+                "h": 219
+            },
+            "object_property": "person",
+            "confidence": 0.878
+        },
+        {
+            "rectangle": {
+                "x": 536,
+                "y": 161,
+                "w": 64,
+                "h": 162
+            },
+            "object_property": "car",
+            "confidence": 0.767,
+            "parent": {
+                "object_property": "Land vehicle",
+                "confidence": 0.778,
+                "parent": {
+                    "object_property": "Vehicle",
+                    "confidence": 0.778
+                }
+            }
+        }
+    ],
+    "request_id": "80493073-5aa1-4eb0-bc28-52c239e21cb7",
+    "metadata": {
+        "width": 600,
+        "height": 400,
+        "format": "Jpeg"
+    },
+    "model_version": "2021-05-01"
+}
+=====================================
+Image: /Users/vipulmalhotra/Documents/source/repo/azure-vision-object-detection/images/bw.jpeg
+ImageData: {
+    "color": {
+        "dominant_color_foreground": "Grey",
+        "dominant_color_background": "Grey",
+        "dominant_colors": [
+            "Grey",
+            "Black",
+            "White"
+        ],
+        "accent_color": "535654",
+        "is_bw_img": true
+    },
+    "objects": [
+        {
+            "rectangle": {
+                "x": 370,
+                "y": 0,
+                "w": 150,
+                "h": 39
+            },
+            "object_property": "window",
+            "confidence": 0.511
+        },
+        {
+            "rectangle": {
+                "x": 151,
+                "y": 258,
+                "w": 341,
+                "h": 486
+            },
+            "object_property": "arch",
+            "confidence": 0.541
+        }
+    ],
+    "request_id": "3b718507-51b8-48ee-96a0-30df1370e700",
+    "metadata": {
+        "width": 600,
+        "height": 800,
+        "format": "Jpeg"
+    },
+    "model_version": "2021-05-01"
+}
+=====================================
+Image: /Users/vipulmalhotra/Documents/source/repo/azure-vision-object-detection/images/manyppl.jpeg
+ImageData: {
+    "color": {
+        "dominant_color_foreground": "Black",
+        "dominant_color_background": "Black",
+        "dominant_colors": [
+            "Black",
+            "Grey"
+        ],
+        "accent_color": "102728",
+        "is_bw_img": false
+    },
+    "objects": [
+        {
+            "rectangle": {
+                "x": 69,
+                "y": 94,
+                "w": 90,
+                "h": 213
+            },
+            "object_property": "person",
+            "confidence": 0.757
+        },
+        {
+            "rectangle": {
+                "x": 141,
+                "y": 130,
+                "w": 44,
+                "h": 159
+            },
+            "object_property": "person",
+            "confidence": 0.659
+        },
+        {
+            "rectangle": {
+                "x": 289,
+                "y": 117,
+                "w": 43,
+                "h": 171
+            },
+            "object_property": "person",
+            "confidence": 0.543
+        },
+        {
+            "rectangle": {
+                "x": 305,
+                "y": 118,
+                "w": 65,
+                "h": 182
+            },
+            "object_property": "person",
+            "confidence": 0.829
+        },
+        {
+            "rectangle": {
+                "x": 366,
+                "y": 129,
+                "w": 54,
+                "h": 167
+            },
+            "object_property": "person",
+            "confidence": 0.847
+        },
+        {
+            "rectangle": {
+                "x": 430,
+                "y": 139,
+                "w": 47,
+                "h": 142
+            },
+            "object_property": "person",
+            "confidence": 0.772
+        },
+        {
+            "rectangle": {
+                "x": 560,
+                "y": 122,
+                "w": 40,
+                "h": 180
+            },
+            "object_property": "person",
+            "confidence": 0.843
+        },
+        {
+            "rectangle": {
+                "x": 227,
+                "y": 127,
+                "w": 59,
+                "h": 196
+            },
+            "object_property": "person",
+            "confidence": 0.785
+        },
+        {
+            "rectangle": {
+                "x": 479,
+                "y": 134,
+                "w": 73,
+                "h": 181
+            },
+            "object_property": "person",
+            "confidence": 0.826
+        }
+    ],
+    "request_id": "86651779-6f86-4c57-b4e1-d718544c5ee7",
+    "metadata": {
+        "width": 600,
+        "height": 338,
+        "format": "Jpeg"
+    },
+    "model_version": "2021-05-01"
+}
+=====================================
+Image: /Users/vipulmalhotra/Documents/source/repo/azure-vision-object-detection/images/3ppl.jpeg
+ImageData: {
+    "color": {
+        "dominant_color_foreground": "Green",
+        "dominant_color_background": "Brown",
+        "dominant_colors": [
+            "Brown"
+        ],
+        "accent_color": "7DB01B",
+        "is_bw_img": false
+    },
+    "objects": [
+        {
+            "rectangle": {
+                "x": 147,
+                "y": 139,
+                "w": 158,
+                "h": 439
+            },
+            "object_property": "person",
+            "confidence": 0.823
+        },
+        {
+            "rectangle": {
+                "x": 386,
+                "y": 119,
+                "w": 193,
+                "h": 476
+            },
+            "object_property": "person",
+            "confidence": 0.876
+        },
+        {
+            "rectangle": {
+                "x": 276,
+                "y": 337,
+                "w": 130,
+                "h": 256
+            },
+            "object_property": "person",
+            "confidence": 0.799
+        }
+    ],
+    "request_id": "b93f9177-8d43-4bce-aa8d-be71c3c7db4b",
+    "metadata": {
+        "width": 600,
+        "height": 900,
+        "format": "Jpeg"
+    },
+    "model_version": "2021-05-01"
+}
+=====================================
+Image: /Users/vipulmalhotra/Documents/source/repo/azure-vision-object-detection/images/1ppl.jpeg
+ImageData: {
+    "color": {
+        "dominant_color_foreground": "Black",
+        "dominant_color_background": "Black",
+        "dominant_colors": [
+            "Black"
+        ],
+        "accent_color": "3A6E91",
+        "is_bw_img": false
+    },
+    "objects": [
+        {
+            "rectangle": {
+                "x": 145,
+                "y": 11,
+                "w": 356,
+                "h": 381
+            },
+            "object_property": "person",
+            "confidence": 0.901
+        }
+    ],
+    "request_id": "d867da13-8c30-4fb7-8224-a51a4611fcf7",
+    "metadata": {
+        "width": 600,
+        "height": 400,
+        "format": "Jpeg"
+    },
+    "model_version": "2021-05-01"
+}
+=====================================
+Image: /Users/vipulmalhotra/Documents/source/repo/azure-vision-object-detection/images/2ppl1.jpeg
+ImageData: {
+    "color": {
+        "dominant_color_foreground": "White",
+        "dominant_color_background": "White",
+        "dominant_colors": [
+            "White",
+            "Blue"
+        ],
+        "accent_color": "0C78BF",
+        "is_bw_img": false
+    },
+    "objects": [
+        {
+            "rectangle": {
+                "x": 174,
+                "y": 26,
+                "w": 148,
+                "h": 273
+            },
+            "object_property": "person",
+            "confidence": 0.748
+        },
+        {
+            "rectangle": {
+                "x": 273,
+                "y": 69,
+                "w": 223,
+                "h": 329
+            },
+            "object_property": "person",
+            "confidence": 0.844
+        },
+        {
+            "rectangle": {
+                "x": 3,
+                "y": 148,
+                "w": 496,
+                "h": 259
+            },
+            "object_property": "car",
+            "confidence": 0.539,
+            "parent": {
+                "object_property": "Land vehicle",
+                "confidence": 0.827,
+                "parent": {
+                    "object_property": "Vehicle",
+                    "confidence": 0.852
+                }
+            }
+        }
+    ],
+    "request_id": "e334925a-b259-4714-aafa-6ac5d0f40788",
+    "metadata": {
+        "width": 600,
+        "height": 450,
+        "format": "Jpeg"
+    },
+    "model_version": "2021-05-01"
+}

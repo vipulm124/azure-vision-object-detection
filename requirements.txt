@@ -1,0 +1,16 @@
+azure-cognitiveservices-vision-computervision==0.9.1
+azure-common==1.1.28
+azure-core==1.32.0
+certifi==2025.1.31
+charset-normalizer==3.4.1
+idna==3.10
+isodate==0.7.2
+msrest==0.7.1
+oauthlib==3.2.2
+pillow==11.1.0
+requests==2.32.3
+requests-oauthlib==2.0.0
+six==1.17.0
+typing_extensions==4.12.2
+urllib3==2.3.0
+dotenv==0.9.9
